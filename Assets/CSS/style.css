@@ -13,6 +13,11 @@ li {
   list-style: none;
 }
 
+.contact-me {
+  display: flex;
+  justify-content: center;
+}
+
 .content {
   background-image: linear-gradient(
     to right,
