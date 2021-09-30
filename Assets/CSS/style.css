@@ -37,7 +37,8 @@ li {
     #ff75a0
   );
 }
-.accordion-button:active {
+
+.button:active {
   color: #863f71;
 }
 
@@ -57,7 +58,8 @@ li {
   );
 }
 
-.navbar-brand {
+.navbar-brand,
+h2 {
   font-size: 2.5em;
   font-family: "Caveat", cursive;
 }
