@@ -4,9 +4,11 @@ body {
 
 a {
   color: #863f71;
+  text-decoration: none;
 }
 a:hover {
   color: #521b3bd2;
+  text-decoration: none;
 }
 
 li {
