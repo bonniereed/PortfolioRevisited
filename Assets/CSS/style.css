@@ -1,5 +1,12 @@
 body {
-  background-color: #fce38a;
+  background-image: linear-gradient(
+    to right,
+    #ff75a0,
+    #fce38a,
+    #eaffd0,
+    #95e1d3
+  );
+  color: #863f71;
 }
 
 a {
@@ -64,17 +71,6 @@ li {
 h2 {
   font-size: 2.5em;
   font-family: "Caveat", cursive;
-}
-
-.container {
-  background-image: linear-gradient(
-    to right,
-    #ff75a0,
-    #fce38a,
-    #eaffd0,
-    #95e1d3
-  );
-  color: #863f71;
 }
 
 .about-Me img {
