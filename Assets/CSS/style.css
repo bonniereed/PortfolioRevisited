@@ -7,6 +7,7 @@ body {
     #95e1d3
   );
   color: #863f71;
+  font-weight: 600;
 }
 
 a {
@@ -28,23 +29,12 @@ li {
 }
 
 .content {
-  background-image: linear-gradient(
-    to right,
-    #95e1d3,
-    #eaffd0,
-    #fce38a,
-    #ff75a0
-  );
+  background-image: linear-gradient(to right, #95e1d3, #eaffd0, #fce38a);
+  padding: 1em;
 }
 
 .accordion-button {
-  background-image: linear-gradient(
-    to right,
-    #95e1d3,
-    #eaffd0,
-    #fce38a,
-    #ff75a0
-  );
+  background-image: linear-gradient(to right, #95e1d3, #eaffd0, #fce38a);
 }
 
 .button:active {
