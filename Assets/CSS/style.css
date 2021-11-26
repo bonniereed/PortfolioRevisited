@@ -1,78 +1,80 @@
 body {
-  background-image: linear-gradient(
-    to right,
-    #ff75a0,
-    #fce38a,
-    #eaffd0,
-    #95e1d3
-  );
-  color: #863f71;
-  font-weight: 600;
+    background-image: linear-gradient(
+        to right,
+        #ff75a0,
+        #fce38a,
+        #eaffd0,
+        #95e1d3
+    );
+    color: #863f71;
+    font-weight: 600;
 }
 
 a {
-  color: #863f71;
-  text-decoration: none;
+    color: #e4688f;
+    text-decoration: none;
 }
 a:hover {
-  color: #95e1d3
-  text-decoration: none;
+    color: #95e1d3;
+    text-decoration: none;
 }
 
 li {
-  list-style: none;
+    list-style: none;
 }
-
 .contact-me {
-  display: flex;
-  justify-content: center;
+    display: flex;
+    justify-content: center;
 }
 
 .content {
-  background-image: linear-gradient(to right, #95e1d3, #eaffd0, #fce38a);
-  padding: 1em;
+    background-image: linear-gradient(to right, #95e1d3, #eaffd0, #fce38a);
+    padding: 1em;
 }
 
-.accordion-button {
-  background-image: linear-gradient(to right, #95e1d3, #eaffd0, #fce38a);
+.carousel-caption {
+    padding-top: 2em;
+    color: #fce38a;
+    font-family: 'Caveat', cursive;
+    font-size: x-large;
 }
 
 .button:active {
-  color: #863f71;
+    color: #863f71;
 }
 
 .icon {
-  max-height: 35px;
-  max-width: 35px;
-  margin-top: 5px;
-  margin-bottom: 5px;
-  padding: 5px;
-  border-radius: 3px;
-  background-image: linear-gradient(
-    to right,
-    #ff75a0,
-    #fce38a,
-    #eaffd0,
-    #95e1d3
-  );
+    max-height: 35px;
+    max-width: 35px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-radius: 3px;
+    background-image: linear-gradient(
+        to right,
+        #ff75a0,
+        #fce38a,
+        #eaffd0,
+        #95e1d3
+    );
 }
 
 .navbar-brand,
 h2 {
-  font-size: 2.5em;
-  font-family: "Caveat", cursive;
+    font-size: 2.5em;
+    font-family: 'Caveat', cursive;
 }
 
 .about-Me img {
-  max-height: 200px;
-  margin-top: 5px;
-  margin-bottom: 5px;
-  padding: 5px;
-  border-radius: 10px;
-  background-image: linear-gradient(
-    to right,
-    #95e1d3 #eaffd0,
-    #fce38a,
-    #ff75a0
-  );
+    max-height: 200px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-radius: 10px;
+    background-image: linear-gradient(
+        to right,
+        #95e1d3 #eaffd0,
+        #fce38a,
+        #ff75a0
+    );
 }
